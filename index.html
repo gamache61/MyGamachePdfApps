@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gamache PDF's - Guides and Cheat Sheets</title>
+<meta name="description" content="Plain-language PDF guides and cheat sheets. Trucking, business and more. $1.87 each, 25% off when you buy 5 or more.">
+<style>
+body{background:#0d0f14;color:#eef1f7;font-family:system-ui,sans-serif;margin:0;line-height:1.5}
+.wrap{max-width:1180px;margin:0 auto;padding:0 16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;margin-top:20px}
+.card{background:#1a1f2b;border:1px solid #2a3142;border-radius:16px;padding:18px;display:flex;flex-direction:column;gap:10px}
+.card h3{margin:0;font-size:1.1rem}
+.card p{margin:0;color:#c3cada;font-size:.92rem;flex:1}
+.icon{width:56px;height:56px;border-radius:14px;display:grid;place-items:center;font-size:28px}
+.btn{padding:8px 14px;border-radius:10px;border:1px solid #2a3142;background:#151923;color:#eef1f7;font-weight:700;cursor:pointer;display:inline-flex;text-decoration:none;align-items:center;gap:6px;font-family:inherit;font-size:.95rem}
+.btn.primary{background:#ffb627;color:#111;border-color:#ffb627}
+.btn.buy{background:#3ddc97;color:#06281a;border-color:#3ddc97}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.cat-bar{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0}
+.cat-chip{padding:6px 14px;border-radius:99px;border:1px solid #2a3142;background:#1a1f2b;color:#9aa3b5;cursor:pointer;font-weight:600;font-size:.85rem;font-family:inherit;letter-spacing:.03em}
+.cat-chip.active{background:#ffb627;color:#111;border-color:#ffb627}
+.search-box{display:flex;gap:8px;margin:12px 0}
+.search-box input{flex:1;min-width:200px;background:#1a1f2b;border:1px solid #2a3142;color:#eef1f7;border-radius:10px;padding:10px 14px;font-family:inherit}
+.badge{display:inline-flex;align-self:flex-start;padding:3px 8px;border-radius:99px;font-size:.7rem;font-weight:700;background:#ffb62722;color:#ffb627;border:1px solid #ffb62744;text-transform:uppercase;letter-spacing:.03em}
+.price{font-weight:800;color:#3ddc97;font-size:1.1rem}
+.row{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.promo{display:block;margin:16px 0 0;padding:14px 16px;border-radius:14px;background:#ffb627;color:#111;font-weight:800;text-decoration:none}
+.cartbtn{position:fixed;right:16px;bottom:16px;z-index:30;padding:14px 20px;border-radius:99px;font-size:1rem;box-shadow:0 6px 24px rgba(0,0,0,.5)}
+.shade{position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:40;display:none}
+.drawer{position:fixed;top:0;right:0;height:100%;width:min(400px,100%);background:#0d0f14;border-left:1px solid #2a3142;z-index:50;transform:translateX(100%);transition:transform .2s;display:flex;flex-direction:column}
+body.cart .shade{display:block} body.cart .drawer{transform:none}
+.dr-head{display:flex;justify-content:space-between;align-items:center;padding:16px;border-bottom:1px solid #2a3142}
+.dr-body{flex:1;overflow:auto;padding:16px}
+.dr-foot{padding:16px;border-top:1px solid #2a3142}
+.item{display:flex;justify-content:space-between;gap:10px;padding:10px 0;border-bottom:1px solid #2a3142;font-size:.92rem}
+.item button{background:none;border:none;color:#9aa3b5;cursor:pointer;font-size:1.2rem}
+.tot{display:flex;justify-content:space-between;margin:6px 0;color:#c3cada}
+.tot.big{font-size:1.2rem;font-weight:800;color:#eef1f7}
+.tot.save{color:#3ddc97}
+#lockGear{background:none;border:1px solid #2a3142;color:#9aa3b5;border-radius:10px;padding:6px 12px;cursor:pointer;font-size:1.1rem}
+.adrawer{position:fixed;top:0;right:0;height:100%;width:min(520px,100%);background:#0d0f14;border-left:1px solid #2a3142;z-index:70;transform:translateX(100%);transition:transform .2s;display:flex;flex-direction:column}
+.ashade{position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:65;display:none}
+body.admin .ashade{display:block} body.admin .adrawer{transform:none}
+.ebox{border:2px solid #2a3142;border-radius:12px;padding:12px;margin-bottom:14px;background:#1a1f2b}
+.ebox label{display:flex;flex-direction:column;gap:3px;color:#ffb627;font-size:.75rem;font-weight:700;margin-bottom:8px;text-transform:uppercase}
+.ebox input,.ebox textarea,.ebox select{background:#0d0f14;border:1px solid #2a3142;color:#eef1f7;border-radius:8px;padding:8px;font-family:inherit;font-size:.95rem;text-transform:none}
+.erow{display:flex;gap:8px;align-items:center;margin-bottom:8px}
+.erow input[type=text]{flex:1}
+.erow input[type=color]{width:44px;height:38px;padding:2px}
+footer{color:#9aa3b5;font-size:.85rem;padding:30px 0 90px}
+a{color:#ffb627}
+</style></head><body>
+<div class="wrap" style="padding:24px 16px">
+<div>
+<h1 style="font-size:2.1rem;margin:0">Gamache PDF's</h1>
+<p style="color:#9aa3b5;margin:6px 0 0">Plain-language guides and cheat sheets &mdash; $1.87 each &mdash; 25% off when you buy 5 or more &mdash; For educational / training use</p>
+</div>
+<a class="promo" href="#" id="promoBar">Buy 5 or more PDFs and get 25% off your whole order</a>
+
+<div class="search-box"><input id="q" type="search" placeholder="Search PDFs..."></div>
+<div class="cat-bar" id="catBar"></div>
+<div class="grid" id="grid"></div>
+
+<footer>
+<p>&copy; Gamache PDF's. These guides are study aids written in plain language. They do not replace your training, company policy or the official guides and regulations they are based on. Always confirm numbers and limits in the current official source. For educational use.</p>
+<p>Also see <a href="https://gamache61.github.io/MyGamacheAppsWebsite/">Gamache Apps</a> (trucking training apps) and <a href="https://gamache61.github.io/MyGamacheGamesWebsite/">Gamache Games</a>.</p>
+<p style="margin-top:20px"><button id="lockGear" title="Edit mode">⚙</button></p>
+</footer>
+</div>
+
+<aside class="adrawer" id="adrawer">
+<div class="dr-head"><div><h2 style="margin:0">Edit Everything</h2><small style="color:#9aa3b5">Categories and PDFs</small></div><button id="closeAdmin" style="background:none;border:none;color:#9aa3b5;font-size:2rem;cursor:pointer">×</button></div>
+<div class="dr-body" id="editor"></div>
+<div class="dr-foot" style="display:flex;gap:8px;flex-wrap:wrap">
+<button class="btn primary" id="saveAll">Save All Changes</button>
+<button class="btn buy" id="exportBtn">Download index.html</button>
+<button class="btn" id="resetBtn">Reset</button>
+</div>
+</aside>
+<div class="ashade" id="ashade"></div>
+<script type="application/json" id="data">{"pdfs": [{"id": "pretrip", "title": "BC Class 1 Pre-Trip Inspection: Verbal Script Guide", "desc": "The order to walk the unit and the words to say out loud for the Class 1 pre-trip: engine compartment, cab, walkaround, coupling, trailer and the air brake test.", "icon": "🔍", "category": "Trucking", "preview": "Previews/pretrip-preview.pdf"}, {"id": "airbrake", "title": "BC Class 1 Air Brake Pre-Trip: Cheat Sheet", "desc": "Two pages: key pressures and limits in one table, the air brake test in order, and the pushrod stroke limits.", "icon": "🛞", "category": "Trucking", "preview": "Previews/airbrake-preview.pdf"}, {"id": "hos", "title": "Canadian Hours of Service: Cheat Sheet", "desc": "Two pages: daily and cycle limits, how to check a log step by step, and the deferral, sleeper berth split and adverse conditions rules.", "icon": "⏱", "category": "Trucking", "preview": "Previews/hos-preview.pdf"}, {"id": "tdg", "title": "Dangerous Goods (TDG) for Road Drivers: Cheat Sheet", "desc": "Two pages: what goes on the shipping document and in what order, when placards are needed, class colours and TDG training.", "icon": "☣", "category": "Trucking", "preview": "Previews/tdg-preview.pdf"}, {"id": "axle", "title": "BC Axle Weights: Cheat Sheet", "desc": "Two pages: legal steer, drive and trailer axle limits, tire and spacing rules, how to fix an overweight axle, and a worked example.", "icon": "⚖", "category": "Trucking", "preview": "Previews/axle-preview.pdf"}], "cats": ["Trucking", "Business", "Personal"], "colors": {"Trucking": "#ffb627", "Business": "#3ddc97", "Personal": "#7fd6ff"}}</script>
+
+<button class="btn primary cartbtn" id="cartBtn">🛒 Cart (<span id="cartCount">0</span>)</button>
+<div class="shade" id="shade"></div>
+<aside class="drawer" id="drawer">
+<div class="dr-head"><h2 style="margin:0">Your Cart</h2><button id="closeCart" style="background:none;border:none;color:#9aa3b5;font-size:2rem;cursor:pointer">×</button></div>
+<div class="dr-body" id="cartItems"></div>
+<div class="dr-foot">
+<div class="tot"><span>Subtotal</span><span id="tSub">$0.00</span></div>
+<div class="tot save" id="tSaveRow" style="display:none"><span>25% off (5+ PDFs)</span><span id="tSave"></span></div>
+<div class="tot big"><span>Total</span><span id="tTot">$0.00</span></div>
+<p id="tHint" style="color:#9aa3b5;font-size:.85rem;margin:8px 0"></p>
+<button class="btn buy" id="checkout" style="width:100%;justify-content:center;padding:12px">Checkout</button>
+</div>
+</aside>
+
+<script>
+// ===== SETTINGS =====
+const PRICE = 1.87;            // price per PDF
+const DISCOUNT_MIN = 5;        // buy this many or more...
+const DISCOUNT_PCT = 25;       // ...and get this % off the whole order
+// Your Cloudflare Worker address, like https://gamache-downloads.YOURNAME.workers.dev  (no slash at the end)
+const WORKER_URL = 'https://gamache-downloads.gamacheapps.workers.dev';
+const ADMIN_HASH = '2571fbb21efaa6b662704d63dbe7d656fa6539f0945768c7e4e428ac27c6bd16';
+const KEY = 'gpdf-data-v1';
+// =====================
+
+const $ = id => document.getElementById(id);
+const money = n => '$' + n.toFixed(2);
+const esc = s => String(s==null?'':s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const baseText = () => $('data').textContent.trim();
+function load(){
+  try{ const s = JSON.parse(localStorage.getItem(KEY)); if(s && s.base===baseText()) return s.data; }catch(e){}
+  return JSON.parse(baseText());
+}
+let state = load();
+function saveLocal(){ try{ localStorage.setItem(KEY, JSON.stringify({base:baseText(), data:state})); }catch(e){} }
+const PDFS = () => state.pdfs;
+const catColor = c => (state.colors && /^#[0-9a-f]{6}$/i.test(state.colors[c]||'')) ? state.colors[c] : '#ffb627';
+function textOn(hex){ const r=parseInt(hex.substr(1,2),16),g=parseInt(hex.substr(3,2),16),b=parseInt(hex.substr(5,2),16); return (r*299+g*587+b*114)/1000>140?'#111':'#fff'; }
+function allCats(){
+  const l = state.cats.slice();
+  state.pdfs.forEach(p=>{ if(p.category && !l.includes(p.category)) l.push(p.category); });
+  state.cats = l; return l;
+}
+const usedCats = () => allCats().filter(c=>state.pdfs.some(p=>p.category===c));
+
+let cart = [];
+try { cart = JSON.parse(localStorage.getItem('gpdf-cart')||'[]'); } catch(e){}
+let activeCat = 'All';
+function saveCart(){ try{ localStorage.setItem('gpdf-cart', JSON.stringify(cart)); }catch(e){} }
+
+function renderCats(){
+  const list = ['All'].concat(usedCats());
+  if(!list.includes(activeCat)) activeCat='All';
+  $('catBar').innerHTML = list.map(c=>{
+    const on = c===activeCat, col = c==='All' ? '#ffb627' : catColor(c);
+    return '<button class="cat-chip'+(on?' active':'')+'" data-cat="'+esc(c)+'" style="'+(on?'background:'+col+';border-color:'+col+';color:'+textOn(col):'')+'">'+esc(c)+'</button>';
+  }).join('');
+}
+function renderGrid(){
+  const q = $('q').value.trim().toLowerCase();
+  const list = PDFS().filter(p => (activeCat==='All'||p.category===activeCat) && (!q || (p.title+' '+p.desc+' '+p.category).toLowerCase().includes(q)));
+  $('grid').innerHTML = list.length ? list.map(p=>{
+    const col = catColor(p.category), inCart = cart.includes(p.id);
+    return '<div class="card"><div class="icon" style="background:'+col+'22;border:1px solid '+col+'44">'+esc(p.icon)+'</div>'
+      +'<span class="badge" style="color:'+col+';background:'+col+'22;border-color:'+col+'44">'+esc(p.category)+'</span>'
+      +'<h3>'+esc(p.title)+'</h3><p>'+esc(p.desc)+'</p>'
+      +'<div class="row"><span class="price">'+money(PRICE)+'</span>'
+      +'<span style="display:flex;gap:8px">'+(p.preview?'<a class="btn" href="'+esc(p.preview)+'" target="_blank">Preview</a>':'')
+      +'<button class="btn '+(inCart?'':'buy')+'" data-add="'+esc(p.id)+'">'+(inCart?'✓ In cart':'Add to cart')+'</button></span></div></div>';
+  }).join('') : '<p style="color:#9aa3b5">No PDFs found.</p>';
+}
+function totals(){
+  const n = cart.length, sub = n*PRICE, disc = n>=DISCOUNT_MIN ? sub*DISCOUNT_PCT/100 : 0;
+  return {n, sub, disc, tot: sub-disc};
+}
+function renderCart(){
+  cart = cart.filter(id=>PDFS().some(p=>p.id===id));
+  const t = totals();
+  $('cartCount').textContent = t.n;
+  $('cartItems').innerHTML = t.n ? cart.map(id=>{
+    const p = PDFS().find(x=>x.id===id);
+    return '<div class="item"><span>'+esc(p.title)+'<br><small style="color:#9aa3b5">'+money(PRICE)+'</small></span><button data-rem="'+esc(id)+'" title="Remove">×</button></div>';
+  }).join('') : '<p style="color:#9aa3b5">Your cart is empty.</p>';
+  $('tSub').textContent = money(t.sub);
+  $('tSaveRow').style.display = t.disc ? 'flex' : 'none';
+  $('tSave').textContent = '-' + money(t.disc);
+  $('tTot').textContent = money(t.tot);
+  const need = DISCOUNT_MIN - t.n;
+  $('tHint').textContent = t.n && need>0 ? 'Add '+need+' more PDF'+(need>1?'s':'')+' to get '+DISCOUNT_PCT+'% off your whole order.' : '';
+  $('checkout').disabled = !t.n;
+}
+function renderAll(){ renderCats(); renderGrid(); renderCart(); }
+function toggle(id){
+  cart = cart.includes(id) ? cart.filter(x=>x!==id) : cart.concat(id);
+  saveCart(); renderGrid(); renderCart();
+}
+$('catBar').addEventListener('click', e=>{ const b=e.target.closest('[data-cat]'); if(!b) return; activeCat=b.dataset.cat; renderCats(); renderGrid(); });
+$('grid').addEventListener('click', e=>{ const b=e.target.closest('[data-add]'); if(b) toggle(b.dataset.add); });
+$('cartItems').addEventListener('click', e=>{ const b=e.target.closest('[data-rem]'); if(b) toggle(b.dataset.rem); });
+$('q').addEventListener('input', renderGrid);
+$('cartBtn').onclick = ()=>document.body.classList.add('cart');
+$('closeCart').onclick = $('shade').onclick = ()=>document.body.classList.remove('cart');
+$('promoBar').onclick = e=>e.preventDefault();
+$('checkout').onclick = async ()=>{
+  if(!cart.length) return;
+  if(!WORKER_URL){ alert('Checkout is not open yet. Please check back soon.'); return; }
+  const btn = $('checkout'); btn.disabled = true; btn.textContent = 'Please wait...';
+  try{
+    const r = await fetch(WORKER_URL + '/checkout', {method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({items: cart, return_url: location.href.split('#')[0]})});
+    const d = await r.json();
+    if(d.ok && d.url){ location.href = d.url; return; }
+    alert(d.error || 'Checkout could not be started. Please try again.');
+  }catch(e){ alert('Checkout could not be started. Please try again.'); }
+  btn.disabled = false; btn.textContent = 'Checkout';
+};
+
+// ===== EDIT MODE =====
+async function hashText(t){ const d=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(t)); return [...new Uint8Array(d)].map(b=>b.toString(16).padStart(2,'0')).join(''); }
+function unlocked(){ try{ return sessionStorage.getItem('gpdf-unlocked')==='1'; }catch(e){ return false; } }
+function updateGear(){ $('lockGear').textContent = unlocked() ? '🔓' : '⚙'; }
+async function gearClick(){
+  if(unlocked()){ openAdmin(); return; }
+  const pw = prompt('Enter password:'); if(pw===null) return;
+  if(await hashText(pw)===ADMIN_HASH){ try{sessionStorage.setItem('gpdf-unlocked','1');}catch(e){} updateGear(); openAdmin(); }
+  else alert('Wrong password.');
+}
+function lockEditor(){ closeAdmin(); try{sessionStorage.removeItem('gpdf-unlocked');}catch(e){} updateGear(); }
+function openAdmin(){ if(!unlocked()) return; renderEditor(); document.body.classList.add('admin'); }
+function closeAdmin(){ saveLocal(); document.body.classList.remove('admin'); renderAll(); }
+
+function editorHTML(){
+  const cats = allCats();
+  let h = '<div class="ebox"><b style="color:#ffb627">CATEGORIES</b><div style="margin-top:10px">';
+  h += cats.map((c,i)=>'<div class="erow"><input type="color" value="'+catColor(c)+'" data-cc="'+i+'">'
+    +'<input type="text" value="'+esc(c)+'" data-cn="'+i+'">'
+    +'<button class="btn" data-act="catup" data-i="'+i+'">↑</button><button class="btn" data-act="catdown" data-i="'+i+'">↓</button>'
+    +'<button class="btn" data-act="catdel" data-i="'+i+'" title="Delete (only if empty)">🗑</button></div>').join('');
+  h += '<div class="erow"><input type="text" id="newCat" placeholder="New category name..."><button class="btn primary" data-act="catadd">Add Category</button></div></div></div>';
+  h += state.pdfs.map(p=>{
+    const col = catColor(p.category);
+    return '<div class="ebox" style="border-color:'+col+'"><div class="erow"><span style="font-size:24px">'+esc(p.icon)+'</span><b style="flex:1">'+esc(p.title)+'</b>'
+      +'<button class="btn" data-act="pdfup" data-id="'+esc(p.id)+'">↑</button><button class="btn" data-act="pdfdown" data-id="'+esc(p.id)+'">↓</button>'
+      +'<button class="btn" data-act="pdfdel" data-id="'+esc(p.id)+'">🗑</button></div>'
+      +'<label>Title<input type="text" data-pf="title" data-id="'+esc(p.id)+'" value="'+esc(p.title)+'"></label>'
+      +'<label>Description<textarea rows="3" data-pf="desc" data-id="'+esc(p.id)+'">'+esc(p.desc)+'</textarea></label>'
+      +'<label>Icon<input type="text" data-pf="icon" data-id="'+esc(p.id)+'" value="'+esc(p.icon)+'"></label>'
+      +'<label>Category<select data-pf="category" data-id="'+esc(p.id)+'">'+cats.map(c=>'<option'+(c===p.category?' selected':'')+'>'+esc(c)+'</option>').join('')+'</select></label>'
+      +'<label>Preview file (e.g. Previews/name-preview.pdf, leave empty for no Preview button)<input type="text" data-pf="preview" data-id="'+esc(p.id)+'" value="'+esc(p.preview||'')+'"></label></div>';
+  }).join('');
+  h += '<button class="btn primary" data-act="pdfadd" style="width:100%;justify-content:center;padding:12px">+ Add New PDF</button>';
+  return h;
+}
+function renderEditor(){ $('editor').innerHTML = editorHTML(); }
+function findPdf(id){ return state.pdfs.find(p=>p.id===id); }
+function move(arr,i,d){ const j=i+d; if(i<0||j<0||j>=arr.length) return; const t=arr[i]; arr[i]=arr[j]; arr[j]=t; }
+
+$('editor').addEventListener('input', e=>{
+  const t=e.target;
+  if(t.dataset.pf && t.dataset.pf!=='category'){ const p=findPdf(t.dataset.id); if(p){ p[t.dataset.pf]=t.value; saveLocal(); } }
+  else if(t.dataset.cc!==undefined){ const c=allCats()[+t.dataset.cc]; state.colors[c]=t.value; saveLocal(); }
+});
+$('editor').addEventListener('change', e=>{
+  const t=e.target;
+  if(t.dataset.pf==='category'){ const p=findPdf(t.dataset.id); if(p){ p.category=t.value; saveLocal(); renderEditor(); } }
+  else if(t.dataset.cn!==undefined){
+    const cats=allCats(), i=+t.dataset.cn, old=cats[i], nv=t.value.trim();
+    if(!nv || (nv!==old && cats.includes(nv))){ t.value=old; return; }
+    state.pdfs.forEach(p=>{ if(p.category===old) p.category=nv; });
+    state.cats[i]=nv; if(state.colors[old]){ state.colors[nv]=state.colors[old]; delete state.colors[old]; }
+    saveLocal(); renderEditor();
+  }
+});
+$('editor').addEventListener('click', e=>{
+  const b=e.target.closest('[data-act]'); if(!b) return;
+  const a=b.dataset.act, i=+b.dataset.i, id=b.dataset.id;
+  if(a==='catadd'){ const v=$('newCat').value.trim(); if(!v) return; if(!allCats().includes(v)) state.cats.push(v); }
+  else if(a==='catup'){ allCats(); move(state.cats,i,-1); }
+  else if(a==='catdown'){ allCats(); move(state.cats,i,1); }
+  else if(a==='catdel'){ const c=allCats()[i]; if(state.pdfs.some(p=>p.category===c)){ alert('Move or delete the PDFs in this category first.'); return; } state.cats.splice(i,1); delete state.colors[c]; }
+  else if(a==='pdfadd'){ state.pdfs.push({id:'pdf_'+Date.now(),title:'New PDF',desc:'Describe this PDF.',icon:'📄',category:allCats()[0]||'General',preview:''}); }
+  else if(a==='pdfdel'){ if(!confirm('Delete this PDF?')) return; state.pdfs=state.pdfs.filter(p=>p.id!==id); }
+  else if(a==='pdfup'){ move(state.pdfs,state.pdfs.findIndex(p=>p.id===id),-1); }
+  else if(a==='pdfdown'){ move(state.pdfs,state.pdfs.findIndex(p=>p.id===id),1); }
+  saveLocal(); renderEditor();
+});
+$('saveAll').onclick = ()=>{ saveLocal(); renderAll(); alert('Saved! Click Download index.html to save the file, then upload it to GitHub.'); };
+$('resetBtn').onclick = ()=>{ if(!confirm('Reset to the last downloaded version?')) return; try{localStorage.removeItem(KEY);}catch(e){} state=JSON.parse(baseText()); renderEditor(); renderAll(); };
+$('exportBtn').onclick = ()=>{
+  saveLocal();
+  const clone = document.documentElement.cloneNode(true);
+  clone.querySelector('#data').textContent = JSON.stringify(state);
+  ['#grid','#catBar','#cartItems','#editor'].forEach(q=>{ clone.querySelector(q).innerHTML=''; });
+  const body = clone.querySelector('body'); body.classList.remove('admin','cart');
+  const q = clone.querySelector('#q'); q.removeAttribute('value');
+  const html = '<!DOCTYPE html>\n' + clone.outerHTML;
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([html],{type:'text/html'})); a.download='index.html';
+  document.body.appendChild(a); a.click(); a.remove();
+};
+$('closeAdmin').onclick = $('ashade').onclick = closeAdmin;
+$('lockGear').onclick = gearClick;
+$('lockGear').oncontextmenu = e=>{ e.preventDefault(); if(unlocked()) lockEditor(); };
+updateGear();
+renderAll();
+</script>
+</body></html>
