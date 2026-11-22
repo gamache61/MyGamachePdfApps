@@ -129,12 +129,13 @@ try { cart = JSON.parse(localStorage.getItem('gpdf-cart')||'[]'); } catch(e){}
 let activeCat = 'All';
 function saveCart(){ try{ localStorage.setItem('gpdf-cart', JSON.stringify(cart)); }catch(e){} }
 
+function letterOf(c){ const i=usedCats().indexOf(c); return i<0?'':String.fromCharCode(65+(i%26)); }
 function renderCats(){
   const list = ['All'].concat(usedCats());
   if(!list.includes(activeCat)) activeCat='All';
   $('catBar').innerHTML = list.map(c=>{
     const on = c===activeCat, col = c==='All' ? '#ffb627' : catColor(c);
-    return '<button class="cat-chip'+(on?' active':'')+'" data-cat="'+esc(c)+'" style="'+(on?'background:'+col+';border-color:'+col+';color:'+textOn(col):'')+'">'+esc(c)+'</button>';
+    return '<button class="cat-chip'+(on?' active':'')+'" data-cat="'+esc(c)+'" style="'+(on?'background:'+col+';border-color:'+col+';color:'+textOn(col):'')+'">'+(c==='All'?'':letterOf(c)+'. ')+esc(c)+'</button>';
   }).join('');
 }
 function renderGrid(){
@@ -143,7 +144,7 @@ function renderGrid(){
   $('grid').innerHTML = list.length ? list.map(p=>{
     const col = catColor(p.category), inCart = cart.includes(p.id);
     return '<div class="card"><div class="icon" style="background:'+col+'22;border:1px solid '+col+'44">'+esc(p.icon)+'</div>'
-      +'<span class="badge" style="color:'+col+';background:'+col+'22;border-color:'+col+'44">'+esc(p.category)+'</span>'
+      +'<span class="badge" style="color:'+col+';background:'+col+'22;border-color:'+col+'44">'+letterOf(p.category)+'. '+esc(p.category)+'</span>'
       +'<h3>'+esc(p.title)+'</h3><p>'+esc(p.desc)+'</p>'
       +'<div class="row"><span class="price">'+money(PRICE)+'</span>'
       +'<span style="display:flex;gap:8px">'+(p.preview?'<a class="btn" href="'+esc(p.preview)+'" target="_blank">Preview</a>':'')
