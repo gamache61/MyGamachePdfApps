@@ -52,6 +52,7 @@ a{color:#ffb627}
 <div>
 <h1 style="font-size:2.1rem;margin:0">Gamache PDF's</h1>
 <p style="color:#9aa3b5;margin:6px 0 0">Plain-language guides and cheat sheets &mdash; $1.87 each &mdash; 25% off when you buy 5 or more &mdash; For educational / training use</p>
+<p id="pdfCount" style="color:#3ddc97;font-weight:700;margin:8px 0 0"></p>
 </div>
 <a class="promo" href="#" id="promoBar">Buy 5 or more PDFs and get 25% off your whole order</a>
 
@@ -169,7 +170,8 @@ function renderCart(){
   $('tHint').textContent = t.n && need>0 ? 'Add '+need+' more PDF'+(need>1?'s':'')+' to get '+DISCOUNT_PCT+'% off your whole order.' : '';
   $('checkout').disabled = !t.n;
 }
-function renderAll(){ renderCats(); renderGrid(); renderCart(); }
+function renderCount(){ const n=state.pdfs.length; const el=$('pdfCount'); if(el) el.textContent=n+(n===1?' PDF':' PDFs')+' available'; }
+function renderAll(){ renderCount(); renderCats(); renderGrid(); renderCart(); }
 function toggle(id){
   cart = cart.includes(id) ? cart.filter(x=>x!==id) : cart.concat(id);
   saveCart(); renderGrid(); renderCart();
