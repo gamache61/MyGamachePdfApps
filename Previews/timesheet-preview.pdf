@@ -1,0 +1,700 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.25
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 7089
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.121569 .372549 .74902 rg
+BT 1 0 0 1 50.4 36 Tm (Gamache PDF's  |  gamache61.github.io/MyGamachePdfApps) Tj T* ET
+BT 1 0 0 1 536.248 36 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 50.4 719.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL (Weekly Timesheet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 701.7 cm
+q
+.105882 .164706 .419608 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10 Tf 13.5 TL (Record hours worked each day, by task or job. Print one per week for yourself, an employee or a contractor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 673.7 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Details) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 616.86 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 32.88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.4 38.88 cm
+Q
+q
+1 0 0 1 278.6 32.88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Week starting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 379.4 38.88 cm
+Q
+q
+1 0 0 1 5 .96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.8 Tm /F1 9.2 Tf 12 TL (Client / job /) Tj T* (employer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.4 12.96 cm
+Q
+q
+1 0 0 1 278.6 6.96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Hourly rate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 379.4 6.96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 51.84 m 511.2 51.84 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 51.84 l S
+n 511.2 0 m 511.2 51.84 l S
+n 0 25.92 m 511.2 25.92 l S
+n 86.4 0 m 86.4 51.84 l S
+n 273.6 0 m 273.6 51.84 l S
+n 374.4 0 m 374.4 51.84 l S
+Q
+Q
+Q
+q
+1 0 0 1 50.4 588.86 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Hours) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.4 319.06 cm
+q
+.909804 .917647 .933333 rg
+n 0 264.8 475.2 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 248.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Task or job) Tj T* ET
+Q
+Q
+q
+1 0 0 1 149 248.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Mon) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 248.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Tue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 248.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Wed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 267.8 248.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Thu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 307.4 248.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Fri) Tj T* ET
+Q
+Q
+q
+1 0 0 1 347 248.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Sat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 386.6 248.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Sun) Tj T* ET
+Q
+Q
+q
+1 0 0 1 426.2 248.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Total) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 232.56 cm
+Q
+q
+1 0 0 1 149 232.56 cm
+Q
+q
+1 0 0 1 188.6 232.56 cm
+Q
+q
+1 0 0 1 228.2 232.56 cm
+Q
+q
+1 0 0 1 267.8 232.56 cm
+Q
+q
+1 0 0 1 307.4 232.56 cm
+Q
+q
+1 0 0 1 347 232.56 cm
+Q
+q
+1 0 0 1 386.6 232.56 cm
+Q
+q
+1 0 0 1 426.2 232.56 cm
+Q
+q
+1 0 0 1 5 208.08 cm
+Q
+q
+1 0 0 1 149 208.08 cm
+Q
+q
+1 0 0 1 188.6 208.08 cm
+Q
+q
+1 0 0 1 228.2 208.08 cm
+Q
+q
+1 0 0 1 267.8 208.08 cm
+Q
+q
+1 0 0 1 307.4 208.08 cm
+Q
+q
+1 0 0 1 347 208.08 cm
+Q
+q
+1 0 0 1 386.6 208.08 cm
+Q
+q
+1 0 0 1 426.2 208.08 cm
+Q
+q
+1 0 0 1 5 183.6 cm
+Q
+q
+1 0 0 1 149 183.6 cm
+Q
+q
+1 0 0 1 188.6 183.6 cm
+Q
+q
+1 0 0 1 228.2 183.6 cm
+Q
+q
+1 0 0 1 267.8 183.6 cm
+Q
+q
+1 0 0 1 307.4 183.6 cm
+Q
+q
+1 0 0 1 347 183.6 cm
+Q
+q
+1 0 0 1 386.6 183.6 cm
+Q
+q
+1 0 0 1 426.2 183.6 cm
+Q
+q
+1 0 0 1 5 159.12 cm
+Q
+q
+1 0 0 1 149 159.12 cm
+Q
+q
+1 0 0 1 188.6 159.12 cm
+Q
+q
+1 0 0 1 228.2 159.12 cm
+Q
+q
+1 0 0 1 267.8 159.12 cm
+Q
+q
+1 0 0 1 307.4 159.12 cm
+Q
+q
+1 0 0 1 347 159.12 cm
+Q
+q
+1 0 0 1 386.6 159.12 cm
+Q
+q
+1 0 0 1 426.2 159.12 cm
+Q
+q
+1 0 0 1 5 134.64 cm
+Q
+q
+1 0 0 1 149 134.64 cm
+Q
+q
+1 0 0 1 188.6 134.64 cm
+Q
+q
+1 0 0 1 228.2 134.64 cm
+Q
+q
+1 0 0 1 267.8 134.64 cm
+Q
+q
+1 0 0 1 307.4 134.64 cm
+Q
+q
+1 0 0 1 347 134.64 cm
+Q
+q
+1 0 0 1 386.6 134.64 cm
+Q
+q
+1 0 0 1 426.2 134.64 cm
+Q
+q
+1 0 0 1 5 110.16 cm
+Q
+q
+1 0 0 1 149 110.16 cm
+Q
+q
+1 0 0 1 188.6 110.16 cm
+Q
+q
+1 0 0 1 228.2 110.16 cm
+Q
+q
+1 0 0 1 267.8 110.16 cm
+Q
+q
+1 0 0 1 307.4 110.16 cm
+Q
+q
+1 0 0 1 347 110.16 cm
+Q
+q
+1 0 0 1 386.6 110.16 cm
+Q
+q
+1 0 0 1 426.2 110.16 cm
+Q
+q
+1 0 0 1 5 85.68 cm
+Q
+q
+1 0 0 1 149 85.68 cm
+Q
+q
+1 0 0 1 188.6 85.68 cm
+Q
+q
+1 0 0 1 228.2 85.68 cm
+Q
+q
+1 0 0 1 267.8 85.68 cm
+Q
+q
+1 0 0 1 307.4 85.68 cm
+Q
+q
+1 0 0 1 347 85.68 cm
+Q
+q
+1 0 0 1 386.6 85.68 cm
+Q
+q
+1 0 0 1 426.2 85.68 cm
+Q
+q
+1 0 0 1 5 61.2 cm
+Q
+q
+1 0 0 1 149 61.2 cm
+Q
+q
+1 0 0 1 188.6 61.2 cm
+Q
+q
+1 0 0 1 228.2 61.2 cm
+Q
+q
+1 0 0 1 267.8 61.2 cm
+Q
+q
+1 0 0 1 307.4 61.2 cm
+Q
+q
+1 0 0 1 347 61.2 cm
+Q
+q
+1 0 0 1 386.6 61.2 cm
+Q
+q
+1 0 0 1 426.2 61.2 cm
+Q
+q
+1 0 0 1 5 36.72 cm
+Q
+q
+1 0 0 1 149 36.72 cm
+Q
+q
+1 0 0 1 188.6 36.72 cm
+Q
+q
+1 0 0 1 228.2 36.72 cm
+Q
+q
+1 0 0 1 267.8 36.72 cm
+Q
+q
+1 0 0 1 307.4 36.72 cm
+Q
+q
+1 0 0 1 347 36.72 cm
+Q
+q
+1 0 0 1 386.6 36.72 cm
+Q
+q
+1 0 0 1 426.2 36.72 cm
+Q
+q
+1 0 0 1 5 12.24 cm
+Q
+q
+1 0 0 1 149 12.24 cm
+Q
+q
+1 0 0 1 188.6 12.24 cm
+Q
+q
+1 0 0 1 228.2 12.24 cm
+Q
+q
+1 0 0 1 267.8 12.24 cm
+Q
+q
+1 0 0 1 307.4 12.24 cm
+Q
+q
+1 0 0 1 347 12.24 cm
+Q
+q
+1 0 0 1 386.6 12.24 cm
+Q
+q
+1 0 0 1 426.2 12.24 cm
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 264.8 m 475.2 264.8 l S
+n 0 0 m 475.2 0 l S
+n 0 0 m 0 264.8 l S
+n 475.2 0 m 475.2 264.8 l S
+n 0 244.8 m 475.2 244.8 l S
+n 0 220.32 m 475.2 220.32 l S
+n 0 195.84 m 475.2 195.84 l S
+n 0 171.36 m 475.2 171.36 l S
+n 0 146.88 m 475.2 146.88 l S
+n 0 122.4 m 475.2 122.4 l S
+n 0 97.92 m 475.2 97.92 l S
+n 0 73.44 m 475.2 73.44 l S
+n 0 48.96 m 475.2 48.96 l S
+n 0 24.48 m 475.2 24.48 l S
+n 144 0 m 144 264.8 l S
+n 183.6 0 m 183.6 264.8 l S
+n 223.2 0 m 223.2 264.8 l S
+n 262.8 0 m 262.8 264.8 l S
+n 302.4 0 m 302.4 264.8 l S
+n 342 0 m 342 264.8 l S
+n 381.6 0 m 381.6 264.8 l S
+n 421.2 0 m 421.2 264.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 50.4 313.06 cm
+Q
+q
+1 0 0 1 50.4 287.14 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 6.96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Total hours) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 12.96 cm
+Q
+q
+1 0 0 1 257 6.96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Total pay \($\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 372.2 6.96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 25.92 m 511.2 25.92 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 25.92 l S
+n 511.2 0 m 511.2 25.92 l S
+n 115.2 0 m 115.2 25.92 l S
+n 252 0 m 252 25.92 l S
+n 367.2 0 m 367.2 25.92 l S
+Q
+Q
+Q
+q
+1 0 0 1 50.4 259.14 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Approval) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 189.34 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 42.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Worker signature / date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 177.8 48.6 cm
+Q
+q
+1 0 0 1 5 10.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Approved by / date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 177.8 16.2 cm
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 64.8 m 511.2 64.8 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 64.8 l S
+n 511.2 0 m 511.2 64.8 l S
+n 0 32.4 m 511.2 32.4 l S
+n 172.8 0 m 172.8 64.8 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 64 Tf
+76.8 TL
+ET
+0.766044 0.642788 -0.642788 0.766044 306 396 cm
+BT
+1 0 0 1 -147.584 0 Tm
+(PREVIEW) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000446 00000 n 
+0000007587 00000 n 
+0000007694 00000 n 
+0000007801 00000 n 
+0000007913 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+8025
+%%EOF
