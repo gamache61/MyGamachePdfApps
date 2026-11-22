@@ -1,0 +1,575 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.25
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5306
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.121569 .372549 .74902 rg
+BT 1 0 0 1 50.4 36 Tm (Gamache PDF's  |  gamache61.github.io/MyGamachePdfApps) Tj T* ET
+BT 1 0 0 1 536.248 36 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 50.4 719.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL (Team Roster and Contacts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 701.7 cm
+q
+.105882 .164706 .419608 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10 Tf 13.5 TL (Keep every player and parent contact in one place.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 673.7 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Team) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 586.62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 62.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Team name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.8 68.4 cm
+Q
+q
+1 0 0 1 5 35.04 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Season) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.8 41.04 cm
+Q
+q
+1 0 0 1 5 7.68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Coach contact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.8 13.68 cm
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 82.08 m 511.2 82.08 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 82.08 l S
+n 511.2 0 m 511.2 82.08 l S
+n 0 54.72 m 511.2 54.72 l S
+n 0 27.36 m 511.2 27.36 l S
+n 208.8 0 m 208.8 82.08 l S
+Q
+Q
+Q
+q
+1 0 0 1 50.4 558.62 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Roster) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 144.82 cm
+q
+.909804 .917647 .933333 rg
+n 0 408.8 511.2 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 392.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (No.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 41 392.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Player) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156.2 392.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Parent / guardian) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 392.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Phone) Tj T* ET
+Q
+Q
+q
+1 0 0 1 372.2 392.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Email) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 378 cm
+Q
+q
+1 0 0 1 41 378 cm
+Q
+q
+1 0 0 1 156.2 378 cm
+Q
+q
+1 0 0 1 278.6 378 cm
+Q
+q
+1 0 0 1 372.2 378 cm
+Q
+q
+1 0 0 1 5 356.4 cm
+Q
+q
+1 0 0 1 41 356.4 cm
+Q
+q
+1 0 0 1 156.2 356.4 cm
+Q
+q
+1 0 0 1 278.6 356.4 cm
+Q
+q
+1 0 0 1 372.2 356.4 cm
+Q
+q
+1 0 0 1 5 334.8 cm
+Q
+q
+1 0 0 1 41 334.8 cm
+Q
+q
+1 0 0 1 156.2 334.8 cm
+Q
+q
+1 0 0 1 278.6 334.8 cm
+Q
+q
+1 0 0 1 372.2 334.8 cm
+Q
+q
+1 0 0 1 5 313.2 cm
+Q
+q
+1 0 0 1 41 313.2 cm
+Q
+q
+1 0 0 1 156.2 313.2 cm
+Q
+q
+1 0 0 1 278.6 313.2 cm
+Q
+q
+1 0 0 1 372.2 313.2 cm
+Q
+q
+1 0 0 1 5 291.6 cm
+Q
+q
+1 0 0 1 41 291.6 cm
+Q
+q
+1 0 0 1 156.2 291.6 cm
+Q
+q
+1 0 0 1 278.6 291.6 cm
+Q
+q
+1 0 0 1 372.2 291.6 cm
+Q
+q
+1 0 0 1 5 270 cm
+Q
+q
+1 0 0 1 41 270 cm
+Q
+q
+1 0 0 1 156.2 270 cm
+Q
+q
+1 0 0 1 278.6 270 cm
+Q
+q
+1 0 0 1 372.2 270 cm
+Q
+q
+1 0 0 1 5 248.4 cm
+Q
+q
+1 0 0 1 41 248.4 cm
+Q
+q
+1 0 0 1 156.2 248.4 cm
+Q
+q
+1 0 0 1 278.6 248.4 cm
+Q
+q
+1 0 0 1 372.2 248.4 cm
+Q
+q
+1 0 0 1 5 226.8 cm
+Q
+q
+1 0 0 1 41 226.8 cm
+Q
+q
+1 0 0 1 156.2 226.8 cm
+Q
+q
+1 0 0 1 278.6 226.8 cm
+Q
+q
+1 0 0 1 372.2 226.8 cm
+Q
+q
+1 0 0 1 5 205.2 cm
+Q
+q
+1 0 0 1 41 205.2 cm
+Q
+q
+1 0 0 1 156.2 205.2 cm
+Q
+q
+1 0 0 1 278.6 205.2 cm
+Q
+q
+1 0 0 1 372.2 205.2 cm
+Q
+q
+1 0 0 1 5 183.6 cm
+Q
+q
+1 0 0 1 41 183.6 cm
+Q
+q
+1 0 0 1 156.2 183.6 cm
+Q
+q
+1 0 0 1 278.6 183.6 cm
+Q
+q
+1 0 0 1 372.2 183.6 cm
+Q
+q
+1 0 0 1 5 162 cm
+Q
+q
+1 0 0 1 41 162 cm
+Q
+q
+1 0 0 1 156.2 162 cm
+Q
+q
+1 0 0 1 278.6 162 cm
+Q
+q
+1 0 0 1 372.2 162 cm
+Q
+q
+1 0 0 1 5 140.4 cm
+Q
+q
+1 0 0 1 41 140.4 cm
+Q
+q
+1 0 0 1 156.2 140.4 cm
+Q
+q
+1 0 0 1 278.6 140.4 cm
+Q
+q
+1 0 0 1 372.2 140.4 cm
+Q
+q
+1 0 0 1 5 118.8 cm
+Q
+q
+1 0 0 1 41 118.8 cm
+Q
+q
+1 0 0 1 156.2 118.8 cm
+Q
+q
+1 0 0 1 278.6 118.8 cm
+Q
+q
+1 0 0 1 372.2 118.8 cm
+Q
+q
+1 0 0 1 5 97.2 cm
+Q
+q
+1 0 0 1 41 97.2 cm
+Q
+q
+1 0 0 1 156.2 97.2 cm
+Q
+q
+1 0 0 1 278.6 97.2 cm
+Q
+q
+1 0 0 1 372.2 97.2 cm
+Q
+q
+1 0 0 1 5 75.6 cm
+Q
+q
+1 0 0 1 41 75.6 cm
+Q
+q
+1 0 0 1 156.2 75.6 cm
+Q
+q
+1 0 0 1 278.6 75.6 cm
+Q
+q
+1 0 0 1 372.2 75.6 cm
+Q
+q
+1 0 0 1 5 54 cm
+Q
+q
+1 0 0 1 41 54 cm
+Q
+q
+1 0 0 1 156.2 54 cm
+Q
+q
+1 0 0 1 278.6 54 cm
+Q
+q
+1 0 0 1 372.2 54 cm
+Q
+q
+1 0 0 1 5 32.4 cm
+Q
+q
+1 0 0 1 41 32.4 cm
+Q
+q
+1 0 0 1 156.2 32.4 cm
+Q
+q
+1 0 0 1 278.6 32.4 cm
+Q
+q
+1 0 0 1 372.2 32.4 cm
+Q
+q
+1 0 0 1 5 10.8 cm
+Q
+q
+1 0 0 1 41 10.8 cm
+Q
+q
+1 0 0 1 156.2 10.8 cm
+Q
+q
+1 0 0 1 278.6 10.8 cm
+Q
+q
+1 0 0 1 372.2 10.8 cm
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 408.8 m 511.2 408.8 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 408.8 l S
+n 511.2 0 m 511.2 408.8 l S
+n 0 388.8 m 511.2 388.8 l S
+n 0 367.2 m 511.2 367.2 l S
+n 0 345.6 m 511.2 345.6 l S
+n 0 324 m 511.2 324 l S
+n 0 302.4 m 511.2 302.4 l S
+n 0 280.8 m 511.2 280.8 l S
+n 0 259.2 m 511.2 259.2 l S
+n 0 237.6 m 511.2 237.6 l S
+n 0 216 m 511.2 216 l S
+n 0 194.4 m 511.2 194.4 l S
+n 0 172.8 m 511.2 172.8 l S
+n 0 151.2 m 511.2 151.2 l S
+n 0 129.6 m 511.2 129.6 l S
+n 0 108 m 511.2 108 l S
+n 0 86.4 m 511.2 86.4 l S
+n 0 64.8 m 511.2 64.8 l S
+n 0 43.2 m 511.2 43.2 l S
+n 0 21.6 m 511.2 21.6 l S
+n 36 0 m 36 408.8 l S
+n 151.2 0 m 151.2 408.8 l S
+n 273.6 0 m 273.6 408.8 l S
+n 367.2 0 m 367.2 408.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 50.4 123.82 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Keep player information private and share it only with the team.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 64 Tf
+76.8 TL
+ET
+0.766044 0.642788 -0.642788 0.766044 306 396 cm
+BT
+1 0 0 1 -147.584 0 Tm
+(PREVIEW) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000446 00000 n 
+0000005804 00000 n 
+0000005911 00000 n 
+0000006018 00000 n 
+0000006130 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+6242
+%%EOF
