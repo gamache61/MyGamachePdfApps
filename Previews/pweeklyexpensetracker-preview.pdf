@@ -1,0 +1,573 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.25
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6024
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.121569 .372549 .74902 rg
+BT 1 0 0 1 50.4 36 Tm (Gamache PDF's  |  gamache61.github.io/MyGamachePdfApps) Tj T* ET
+BT 1 0 0 1 536.248 36 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 50.4 719.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL (Weekly Expense Tracker) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 701.7 cm
+q
+.105882 .164706 .419608 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10 Tf 13.5 TL (Write down every purchase for a week and see where the money goes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 673.7 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Spending) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 346.3 cm
+q
+.909804 .917647 .933333 rg
+n 0 322.4 511.2 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 306.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Day) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 306.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (What I bought) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 306.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Category) Tj T* ET
+Q
+Q
+q
+1 0 0 1 415.4 306.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Amount) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 285.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Mon) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 291.6 cm
+Q
+q
+1 0 0 1 293 291.6 cm
+Q
+q
+1 0 0 1 415.4 285.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 264 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Mon) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 270 cm
+Q
+q
+1 0 0 1 293 270 cm
+Q
+q
+1 0 0 1 415.4 264 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 242.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Tue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 248.4 cm
+Q
+q
+1 0 0 1 293 248.4 cm
+Q
+q
+1 0 0 1 415.4 242.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 220.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Tue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 226.8 cm
+Q
+q
+1 0 0 1 293 226.8 cm
+Q
+q
+1 0 0 1 415.4 220.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 199.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Wed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 205.2 cm
+Q
+q
+1 0 0 1 293 205.2 cm
+Q
+q
+1 0 0 1 415.4 199.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 177.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Wed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 183.6 cm
+Q
+q
+1 0 0 1 293 183.6 cm
+Q
+q
+1 0 0 1 415.4 177.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 156 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Thu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 162 cm
+Q
+q
+1 0 0 1 293 162 cm
+Q
+q
+1 0 0 1 415.4 156 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 134.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Thu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 140.4 cm
+Q
+q
+1 0 0 1 293 140.4 cm
+Q
+q
+1 0 0 1 415.4 134.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 112.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Fri) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 118.8 cm
+Q
+q
+1 0 0 1 293 118.8 cm
+Q
+q
+1 0 0 1 415.4 112.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 91.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Fri) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 97.2 cm
+Q
+q
+1 0 0 1 293 97.2 cm
+Q
+q
+1 0 0 1 415.4 91.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 69.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Sat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 75.6 cm
+Q
+q
+1 0 0 1 293 75.6 cm
+Q
+q
+1 0 0 1 415.4 69.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Sat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 54 cm
+Q
+q
+1 0 0 1 293 54 cm
+Q
+q
+1 0 0 1 415.4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 26.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Sun) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 32.4 cm
+Q
+q
+1 0 0 1 293 32.4 cm
+Q
+q
+1 0 0 1 415.4 26.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Sun) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.6 10.8 cm
+Q
+q
+1 0 0 1 293 10.8 cm
+Q
+q
+1 0 0 1 415.4 4.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 322.4 m 511.2 322.4 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 322.4 l S
+n 511.2 0 m 511.2 322.4 l S
+n 0 302.4 m 511.2 302.4 l S
+n 0 280.8 m 511.2 280.8 l S
+n 0 259.2 m 511.2 259.2 l S
+n 0 237.6 m 511.2 237.6 l S
+n 0 216 m 511.2 216 l S
+n 0 194.4 m 511.2 194.4 l S
+n 0 172.8 m 511.2 172.8 l S
+n 0 151.2 m 511.2 151.2 l S
+n 0 129.6 m 511.2 129.6 l S
+n 0 108 m 511.2 108 l S
+n 0 86.4 m 511.2 86.4 l S
+n 0 64.8 m 511.2 64.8 l S
+n 0 43.2 m 511.2 43.2 l S
+n 0 21.6 m 511.2 21.6 l S
+n 57.6 0 m 57.6 322.4 l S
+n 288 0 m 288 322.4 l S
+n 410.4 0 m 410.4 322.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 50.4 318.3 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Week total) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 231.22 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 62.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Total spent) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.8 68.4 cm
+Q
+q
+1 0 0 1 5 35.04 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Biggest category) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.8 41.04 cm
+Q
+q
+1 0 0 1 5 7.68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (One thing to cut next week) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.8 13.68 cm
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 82.08 m 511.2 82.08 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 82.08 l S
+n 511.2 0 m 511.2 82.08 l S
+n 0 54.72 m 511.2 54.72 l S
+n 0 27.36 m 511.2 27.36 l S
+n 208.8 0 m 208.8 82.08 l S
+Q
+Q
+Q
+q
+1 0 0 1 50.4 210.22 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Planning tool only. It is not financial advice.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 64 Tf
+76.8 TL
+ET
+0.766044 0.642788 -0.642788 0.766044 306 396 cm
+BT
+1 0 0 1 -147.584 0 Tm
+(PREVIEW) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000446 00000 n 
+0000006522 00000 n 
+0000006629 00000 n 
+0000006736 00000 n 
+0000006848 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+6960
+%%EOF

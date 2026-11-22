@@ -1,0 +1,467 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.25
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5343
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.121569 .372549 .74902 rg
+BT 1 0 0 1 50.4 36 Tm (Gamache PDF's  |  gamache61.github.io/MyGamachePdfApps) Tj T* ET
+BT 1 0 0 1 536.248 36 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 50.4 719.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL (Freelancer Rate Calculator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 701.7 cm
+q
+.105882 .164706 .419608 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10 Tf 13.5 TL (Work out the hourly rate you need to earn what you want.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 673.7 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Step by step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 418.3 cm
+q
+.909804 .917647 .933333 rg
+n 0 250.4 511.2 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 234.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 379.4 234.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Amount) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 210 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Income I want per year \($\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 379.4 210 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 181.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Business costs per year \($\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 379.4 181.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 152.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Tax set-aside \(estimate, ask your accountant\) \($\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 379.4 152.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 123.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Total I need to bring in \($\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 379.4 123.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 94.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Billable hours per week) Tj T* ET
+Q
+Q
+q
+1 0 0 1 379.4 100.8 cm
+Q
+q
+1 0 0 1 5 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Weeks worked per year) Tj T* ET
+Q
+Q
+q
+1 0 0 1 379.4 72 cm
+Q
+q
+1 0 0 1 5 37.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Billable hours per year) Tj T* ET
+Q
+Q
+q
+1 0 0 1 379.4 43.2 cm
+Q
+q
+1 0 0 1 5 8.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Hourly rate = total needed / billable hours) Tj T* ET
+Q
+Q
+q
+1 0 0 1 379.4 8.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ($) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 250.4 m 511.2 250.4 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 250.4 l S
+n 511.2 0 m 511.2 250.4 l S
+n 0 230.4 m 511.2 230.4 l S
+n 0 201.6 m 511.2 201.6 l S
+n 0 172.8 m 511.2 172.8 l S
+n 0 144 m 511.2 144 l S
+n 0 115.2 m 511.2 115.2 l S
+n 0 86.4 m 511.2 86.4 l S
+n 0 57.6 m 511.2 57.6 l S
+n 0 28.8 m 511.2 28.8 l S
+n 374.4 0 m 374.4 250.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 50.4 390.3 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 372.3 cm
+q
+BT 1 0 0 1 2 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.6 Tf 13 TL (Not all of your hours can be billed: marketing, admin and sales take time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 357.3 cm
+q
+BT 1 0 0 1 2 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.6 Tf 13 TL (Check your rate against what similar people charge.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 342.3 cm
+q
+BT 1 0 0 1 2 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.6 Tf 13 TL (Raise your rate for new customers first.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 314.3 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Rate by service) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 159.7 cm
+q
+.909804 .917647 .933333 rg
+n 0 149.6 511.2 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 133.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Service) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 133.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Hours) Tj T* ET
+Q
+Q
+q
+1 0 0 1 314.6 133.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Rate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.2 133.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Price) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 116.64 cm
+Q
+q
+1 0 0 1 228.2 116.64 cm
+Q
+q
+1 0 0 1 314.6 116.64 cm
+Q
+q
+1 0 0 1 408.2 116.64 cm
+Q
+q
+1 0 0 1 5 90.72 cm
+Q
+q
+1 0 0 1 228.2 90.72 cm
+Q
+q
+1 0 0 1 314.6 90.72 cm
+Q
+q
+1 0 0 1 408.2 90.72 cm
+Q
+q
+1 0 0 1 5 64.8 cm
+Q
+q
+1 0 0 1 228.2 64.8 cm
+Q
+q
+1 0 0 1 314.6 64.8 cm
+Q
+q
+1 0 0 1 408.2 64.8 cm
+Q
+q
+1 0 0 1 5 38.88 cm
+Q
+q
+1 0 0 1 228.2 38.88 cm
+Q
+q
+1 0 0 1 314.6 38.88 cm
+Q
+q
+1 0 0 1 408.2 38.88 cm
+Q
+q
+1 0 0 1 5 12.96 cm
+Q
+q
+1 0 0 1 228.2 12.96 cm
+Q
+q
+1 0 0 1 314.6 12.96 cm
+Q
+q
+1 0 0 1 408.2 12.96 cm
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 149.6 m 511.2 149.6 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 149.6 l S
+n 511.2 0 m 511.2 149.6 l S
+n 0 129.6 m 511.2 129.6 l S
+n 0 103.68 m 511.2 103.68 l S
+n 0 77.76 m 511.2 77.76 l S
+n 0 51.84 m 511.2 51.84 l S
+n 0 25.92 m 511.2 25.92 l S
+n 223.2 0 m 223.2 149.6 l S
+n 309.6 0 m 309.6 149.6 l S
+n 403.2 0 m 403.2 149.6 l S
+Q
+Q
+Q
+q
+1 0 0 1 50.4 138.7 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (General planning tool only. It is not legal, tax or financial advice.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 64 Tf
+76.8 TL
+ET
+0.766044 0.642788 -0.642788 0.766044 306 396 cm
+BT
+1 0 0 1 -147.584 0 Tm
+(PREVIEW) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000446 00000 n 
+0000005841 00000 n 
+0000005948 00000 n 
+0000006055 00000 n 
+0000006167 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+6279
+%%EOF

@@ -1,0 +1,387 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.25
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3740
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.121569 .372549 .74902 rg
+BT 1 0 0 1 50.4 36 Tm (Gamache PDF's  |  gamache61.github.io/MyGamachePdfApps) Tj T* ET
+BT 1 0 0 1 536.248 36 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 50.4 719.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL (Product Roadmap Planner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 701.7 cm
+q
+.105882 .164706 .419608 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10 Tf 13.5 TL (Decide what to build now, next and later.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 673.7 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Roadmap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 490.3 cm
+q
+.909804 .917647 .933333 rg
+n 0 178.4 511.2 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 162.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Now \(this month\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 175.64 162.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Next \(1-3 months\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 346.28 162.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Later \(3+ months\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 37.2 cm
+q
+BT 1 0 0 1 0 74.8 Tm 12 TL /F1 9.2 Tf 0 0 0 rg  T*  T*  T*  T*  T*  T*  T* ET
+Q
+Q
+q
+1 0 0 1 175.64 37.2 cm
+q
+BT 1 0 0 1 0 74.8 Tm 12 TL /F1 9.2 Tf 0 0 0 rg  T*  T*  T*  T*  T*  T*  T* ET
+Q
+Q
+q
+1 0 0 1 346.28 37.2 cm
+q
+BT 1 0 0 1 0 74.8 Tm 12 TL /F1 9.2 Tf 0 0 0 rg  T*  T*  T*  T*  T*  T*  T* ET
+Q
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 178.4 m 511.2 178.4 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 178.4 l S
+n 511.2 0 m 511.2 178.4 l S
+n 0 158.4 m 511.2 158.4 l S
+n 170.64 0 m 170.64 178.4 l S
+n 341.28 0 m 341.28 178.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 50.4 462.3 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Priority list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 229.94 cm
+q
+.909804 .917647 .933333 rg
+n 0 227.36 511.2 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 211.36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Feature) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.8 211.36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Customer value \(1-5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 211.36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Effort \(1-5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.2 211.36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Decision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 194.4 cm
+Q
+q
+1 0 0 1 213.8 194.4 cm
+Q
+q
+1 0 0 1 321.8 194.4 cm
+Q
+q
+1 0 0 1 408.2 194.4 cm
+Q
+q
+1 0 0 1 5 168.48 cm
+Q
+q
+1 0 0 1 213.8 168.48 cm
+Q
+q
+1 0 0 1 321.8 168.48 cm
+Q
+q
+1 0 0 1 408.2 168.48 cm
+Q
+q
+1 0 0 1 5 142.56 cm
+Q
+q
+1 0 0 1 213.8 142.56 cm
+Q
+q
+1 0 0 1 321.8 142.56 cm
+Q
+q
+1 0 0 1 408.2 142.56 cm
+Q
+q
+1 0 0 1 5 116.64 cm
+Q
+q
+1 0 0 1 213.8 116.64 cm
+Q
+q
+1 0 0 1 321.8 116.64 cm
+Q
+q
+1 0 0 1 408.2 116.64 cm
+Q
+q
+1 0 0 1 5 90.72 cm
+Q
+q
+1 0 0 1 213.8 90.72 cm
+Q
+q
+1 0 0 1 321.8 90.72 cm
+Q
+q
+1 0 0 1 408.2 90.72 cm
+Q
+q
+1 0 0 1 5 64.8 cm
+Q
+q
+1 0 0 1 213.8 64.8 cm
+Q
+q
+1 0 0 1 321.8 64.8 cm
+Q
+q
+1 0 0 1 408.2 64.8 cm
+Q
+q
+1 0 0 1 5 38.88 cm
+Q
+q
+1 0 0 1 213.8 38.88 cm
+Q
+q
+1 0 0 1 321.8 38.88 cm
+Q
+q
+1 0 0 1 408.2 38.88 cm
+Q
+q
+1 0 0 1 5 12.96 cm
+Q
+q
+1 0 0 1 213.8 12.96 cm
+Q
+q
+1 0 0 1 321.8 12.96 cm
+Q
+q
+1 0 0 1 408.2 12.96 cm
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 227.36 m 511.2 227.36 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 227.36 l S
+n 511.2 0 m 511.2 227.36 l S
+n 0 207.36 m 511.2 207.36 l S
+n 0 181.44 m 511.2 181.44 l S
+n 0 155.52 m 511.2 155.52 l S
+n 0 129.6 m 511.2 129.6 l S
+n 0 103.68 m 511.2 103.68 l S
+n 0 77.76 m 511.2 77.76 l S
+n 0 51.84 m 511.2 51.84 l S
+n 0 25.92 m 511.2 25.92 l S
+n 208.8 0 m 208.8 227.36 l S
+n 316.8 0 m 316.8 227.36 l S
+n 403.2 0 m 403.2 227.36 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 64 Tf
+76.8 TL
+ET
+0.766044 0.642788 -0.642788 0.766044 306 396 cm
+BT
+1 0 0 1 -147.584 0 Tm
+(PREVIEW) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000446 00000 n 
+0000004238 00000 n 
+0000004345 00000 n 
+0000004452 00000 n 
+0000004564 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+4676
+%%EOF

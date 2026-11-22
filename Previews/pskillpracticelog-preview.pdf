@@ -1,0 +1,536 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.25
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 4875
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.121569 .372549 .74902 rg
+BT 1 0 0 1 50.4 36 Tm (Gamache PDF's  |  gamache61.github.io/MyGamachePdfApps) Tj T* ET
+BT 1 0 0 1 536.248 36 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 50.4 719.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL (Skill Practice Log) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 701.7 cm
+q
+.105882 .164706 .419608 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10 Tf 13.5 TL (Track practice for an instrument, sport or hobby.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 673.7 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Skill) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 586.62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 62.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (What I am practising) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.8 68.4 cm
+Q
+q
+1 0 0 1 5 35.04 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Goal \(for example play a song\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.8 41.04 cm
+Q
+q
+1 0 0 1 5 7.68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Target date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.8 13.68 cm
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 82.08 m 511.2 82.08 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 82.08 l S
+n 511.2 0 m 511.2 82.08 l S
+n 0 54.72 m 511.2 54.72 l S
+n 0 27.36 m 511.2 27.36 l S
+n 208.8 0 m 208.8 82.08 l S
+Q
+Q
+Q
+q
+1 0 0 1 50.4 558.62 cm
+q
+.121569 .372549 .74902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 14.5 Tf 18 TL (Sessions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.4 188.02 cm
+q
+.909804 .917647 .933333 rg
+n 0 365.6 511.2 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 349.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 69.8 349.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Minutes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 349.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (What I practised) Tj T* ET
+Q
+Q
+q
+1 0 0 1 285.8 349.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (How it went) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 349.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Next goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 334.8 cm
+Q
+q
+1 0 0 1 69.8 334.8 cm
+Q
+q
+1 0 0 1 127.4 334.8 cm
+Q
+q
+1 0 0 1 285.8 334.8 cm
+Q
+q
+1 0 0 1 401 334.8 cm
+Q
+q
+1 0 0 1 5 313.2 cm
+Q
+q
+1 0 0 1 69.8 313.2 cm
+Q
+q
+1 0 0 1 127.4 313.2 cm
+Q
+q
+1 0 0 1 285.8 313.2 cm
+Q
+q
+1 0 0 1 401 313.2 cm
+Q
+q
+1 0 0 1 5 291.6 cm
+Q
+q
+1 0 0 1 69.8 291.6 cm
+Q
+q
+1 0 0 1 127.4 291.6 cm
+Q
+q
+1 0 0 1 285.8 291.6 cm
+Q
+q
+1 0 0 1 401 291.6 cm
+Q
+q
+1 0 0 1 5 270 cm
+Q
+q
+1 0 0 1 69.8 270 cm
+Q
+q
+1 0 0 1 127.4 270 cm
+Q
+q
+1 0 0 1 285.8 270 cm
+Q
+q
+1 0 0 1 401 270 cm
+Q
+q
+1 0 0 1 5 248.4 cm
+Q
+q
+1 0 0 1 69.8 248.4 cm
+Q
+q
+1 0 0 1 127.4 248.4 cm
+Q
+q
+1 0 0 1 285.8 248.4 cm
+Q
+q
+1 0 0 1 401 248.4 cm
+Q
+q
+1 0 0 1 5 226.8 cm
+Q
+q
+1 0 0 1 69.8 226.8 cm
+Q
+q
+1 0 0 1 127.4 226.8 cm
+Q
+q
+1 0 0 1 285.8 226.8 cm
+Q
+q
+1 0 0 1 401 226.8 cm
+Q
+q
+1 0 0 1 5 205.2 cm
+Q
+q
+1 0 0 1 69.8 205.2 cm
+Q
+q
+1 0 0 1 127.4 205.2 cm
+Q
+q
+1 0 0 1 285.8 205.2 cm
+Q
+q
+1 0 0 1 401 205.2 cm
+Q
+q
+1 0 0 1 5 183.6 cm
+Q
+q
+1 0 0 1 69.8 183.6 cm
+Q
+q
+1 0 0 1 127.4 183.6 cm
+Q
+q
+1 0 0 1 285.8 183.6 cm
+Q
+q
+1 0 0 1 401 183.6 cm
+Q
+q
+1 0 0 1 5 162 cm
+Q
+q
+1 0 0 1 69.8 162 cm
+Q
+q
+1 0 0 1 127.4 162 cm
+Q
+q
+1 0 0 1 285.8 162 cm
+Q
+q
+1 0 0 1 401 162 cm
+Q
+q
+1 0 0 1 5 140.4 cm
+Q
+q
+1 0 0 1 69.8 140.4 cm
+Q
+q
+1 0 0 1 127.4 140.4 cm
+Q
+q
+1 0 0 1 285.8 140.4 cm
+Q
+q
+1 0 0 1 401 140.4 cm
+Q
+q
+1 0 0 1 5 118.8 cm
+Q
+q
+1 0 0 1 69.8 118.8 cm
+Q
+q
+1 0 0 1 127.4 118.8 cm
+Q
+q
+1 0 0 1 285.8 118.8 cm
+Q
+q
+1 0 0 1 401 118.8 cm
+Q
+q
+1 0 0 1 5 97.2 cm
+Q
+q
+1 0 0 1 69.8 97.2 cm
+Q
+q
+1 0 0 1 127.4 97.2 cm
+Q
+q
+1 0 0 1 285.8 97.2 cm
+Q
+q
+1 0 0 1 401 97.2 cm
+Q
+q
+1 0 0 1 5 75.6 cm
+Q
+q
+1 0 0 1 69.8 75.6 cm
+Q
+q
+1 0 0 1 127.4 75.6 cm
+Q
+q
+1 0 0 1 285.8 75.6 cm
+Q
+q
+1 0 0 1 401 75.6 cm
+Q
+q
+1 0 0 1 5 54 cm
+Q
+q
+1 0 0 1 69.8 54 cm
+Q
+q
+1 0 0 1 127.4 54 cm
+Q
+q
+1 0 0 1 285.8 54 cm
+Q
+q
+1 0 0 1 401 54 cm
+Q
+q
+1 0 0 1 5 32.4 cm
+Q
+q
+1 0 0 1 69.8 32.4 cm
+Q
+q
+1 0 0 1 127.4 32.4 cm
+Q
+q
+1 0 0 1 285.8 32.4 cm
+Q
+q
+1 0 0 1 401 32.4 cm
+Q
+q
+1 0 0 1 5 10.8 cm
+Q
+q
+1 0 0 1 69.8 10.8 cm
+Q
+q
+1 0 0 1 127.4 10.8 cm
+Q
+q
+1 0 0 1 285.8 10.8 cm
+Q
+q
+1 0 0 1 401 10.8 cm
+Q
+q
+1 J
+1 j
+.788235 .807843 .839216 RG
+.5 w
+n 0 365.6 m 511.2 365.6 l S
+n 0 0 m 511.2 0 l S
+n 0 0 m 0 365.6 l S
+n 511.2 0 m 511.2 365.6 l S
+n 0 345.6 m 511.2 345.6 l S
+n 0 324 m 511.2 324 l S
+n 0 302.4 m 511.2 302.4 l S
+n 0 280.8 m 511.2 280.8 l S
+n 0 259.2 m 511.2 259.2 l S
+n 0 237.6 m 511.2 237.6 l S
+n 0 216 m 511.2 216 l S
+n 0 194.4 m 511.2 194.4 l S
+n 0 172.8 m 511.2 172.8 l S
+n 0 151.2 m 511.2 151.2 l S
+n 0 129.6 m 511.2 129.6 l S
+n 0 108 m 511.2 108 l S
+n 0 86.4 m 511.2 86.4 l S
+n 0 64.8 m 511.2 64.8 l S
+n 0 43.2 m 511.2 43.2 l S
+n 0 21.6 m 511.2 21.6 l S
+n 64.8 0 m 64.8 365.6 l S
+n 122.4 0 m 122.4 365.6 l S
+n 280.8 0 m 280.8 365.6 l S
+n 396 0 m 396 365.6 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 64 Tf
+76.8 TL
+ET
+0.766044 0.642788 -0.642788 0.766044 306 396 cm
+BT
+1 0 0 1 -147.584 0 Tm
+(PREVIEW) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000446 00000 n 
+0000005373 00000 n 
+0000005480 00000 n 
+0000005587 00000 n 
+0000005699 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+5811
+%%EOF
