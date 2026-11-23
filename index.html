@@ -64,6 +64,7 @@ a{color:#ffb627}
 <p>&copy; Gamache PDF's. These guides are study aids written in plain language. They do not replace your training, company policy or the official guides and regulations they are based on. Always confirm numbers and limits in the current official source. For educational use.</p>
 <p>Also see <a href="https://gamache61.github.io/MyGamacheAppsWebsite/">Gamache Apps</a> (trucking training apps) and <a href="https://gamache61.github.io/MyGamacheGamesWebsite/">Gamache Games</a>.</p>
 <p style="margin-top:20px"><button id="lockGear" title="Edit mode">⚙</button></p>
+<div id="visitStats" style="display:none;margin-top:10px;color:#ffb627;font-weight:700;font-size:.9rem"></div>
 </footer>
 </div>
 
@@ -271,7 +272,7 @@ $('exportBtn').onclick = ()=>{
   saveLocal();
   const clone = document.documentElement.cloneNode(true);
   clone.querySelector('#data').textContent = JSON.stringify(state);
-  ['#grid','#catBar','#cartItems','#editor'].forEach(q=>{ clone.querySelector(q).innerHTML=''; });
+  ['#grid','#catBar','#cartItems','#editor','#visitStats'].forEach(q=>{ clone.querySelector(q).innerHTML=''; });
   const body = clone.querySelector('body'); body.classList.remove('admin','cart');
   const q = clone.querySelector('#q'); q.removeAttribute('value');
   const html = '<!DOCTYPE html>\n' + clone.outerHTML;
@@ -284,5 +285,34 @@ $('lockGear').onclick = gearClick;
 $('lockGear').oncontextmenu = e=>{ e.preventDefault(); if(unlocked()) lockEditor(); };
 updateGear();
 renderAll();
+
+// ===== VISITOR COUNTER (does not count the owner) =====
+// A browser is marked as "owner" once the editor is unlocked with the password and is never counted.
+// The numbers only show at the bottom of the page while the editor is unlocked.
+(function(){
+  var API='https://abacus.jasoncameron.dev', NS='gamacheapps-site', K_VISITS='pdfs-visits', K_UNIQUE='pdfs-visitors';
+  var box=document.getElementById('visitStats');
+  function ls(k,v){ try{ if(v===undefined) return localStorage.getItem(k); localStorage.setItem(k,v); }catch(e){ return null; } }
+  function isOwner(){ return ls('gg-owner')==='1'; }
+  function call(kind,key){ return fetch(API+'/'+kind+'/'+NS+'/'+key).then(function(r){ return r.ok?r.json():{value:0}; }).then(function(d){ return (d&&typeof d.value==='number')?d.value:0; }).catch(function(){ return null; }); }
+  function showStats(){
+    if(!box) return;
+    if(!unlocked()){ box.style.display='none'; return; }
+    box.style.display='block'; box.textContent='Visitors: loading...';
+    Promise.all([call('get',K_UNIQUE),call('get',K_VISITS)]).then(function(v){
+      if(!unlocked()) return;
+      box.textContent=(v[0]===null||v[1]===null)?'Visitors: could not load the count right now':'👥 Visitors: '+v[0]+'   •   Visits: '+v[1]+'   (you are not counted)';
+    });
+  }
+  if(unlocked()) ls('gg-owner','1');
+  if(!isOwner()){
+    var today=new Date().toISOString().slice(0,10);
+    if(ls('gg-visit-day-pdfs')!==today){ ls('gg-visit-day-pdfs',today); call('hit',K_VISITS); }
+    if(ls('gg-visit-first-pdfs')!=='1'){ ls('gg-visit-first-pdfs','1'); call('hit',K_UNIQUE); }
+  }
+  var orig=updateGear;
+  updateGear=function(){ orig(); if(unlocked()) ls('gg-owner','1'); showStats(); };
+  showStats();
+})();
 </script>
 </body></html>
